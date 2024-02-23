@@ -1,0 +1,4 @@
+flet==0.20.2
+screen-brightness-control==0.22.2
+pywin32==306
+Win32Security==2.1.0
